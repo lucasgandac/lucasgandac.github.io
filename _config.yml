@@ -1,11 +1,11 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Portfólio
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : lucasgandac/lucasgandac.github.io/     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -24,18 +24,18 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  name              : Lucas Ganda
+  image             : "./eu.jfif"
   behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : lucasgandac@hotmail.com
   facebook          : your_username
-  github            : your_username
+  github            : lucasgandac
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : your_username
-  medium            : your_username
+  medium            : lucasganda
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
