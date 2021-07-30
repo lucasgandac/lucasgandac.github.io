@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Portfólio
 description         : >-
-                      UX Designer apaixonado por produto,
+                      Apaixonado por produto,
                       desde sua concepção até o desenvolvimento. Com experiência também em
-                      desenvolvimento, tanto front-end, quanto back-end.
+                      desenvolvimento front-end e back-end.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : lucasgandac/lucasgandac.github.io/     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
