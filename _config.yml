@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Portfólio
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      UX Designer apaixonado por produto,
+                      desde sua concepção até o desenvolvimento. Com experiência também em
+                      desenvolvimento, tanto front-end, quanto back-end.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : lucasgandac/lucasgandac.github.io/     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -26,22 +26,22 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Lucas Ganda
   image             : "./eu.png"
-  behance           : your_username
+  behance           : lucasgandac
 # dribbble          : your_username
   email             : lucasgandac@hotmail.com
-  facebook          : your_username
+#  facebook          : your_username
   github            : lucasgandac
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : lucas-ganda
   medium            : lucasganda
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+#  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
