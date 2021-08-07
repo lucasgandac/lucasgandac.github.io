@@ -8,7 +8,7 @@
 
 - name: Javascript
   percentage: 60
-  color: secondary
+  color: $orange
 
 - name: Python e C/C++
   percentage: 50
