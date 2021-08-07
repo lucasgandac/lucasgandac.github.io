@@ -1,5 +1,15 @@
-- name: Adobe Photoshop
+- name: UX Strategy / Product Discovery
+  percentage: 80
+  color: warning
 
-- name: Figma
+- name: User Research/Testing
+  percentage: 80
+  color: success
+
+- name: Prototipação
+  percentage: 90
+  color: info
+
+- name: Wireframing
   percentage: 90
   color: danger

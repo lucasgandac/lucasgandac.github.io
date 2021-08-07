@@ -1,11 +1,15 @@
 - name: HTML5/CSS3
   percentage: 90
-  color: danger
+  color: warning
 
-- name: Go
+- name: Dart/Flutter
   percentage: 80
-  color:
+  color: info
 
-- name: Python
-  percentage: 70
+- name: Javascript
+  percentage: 60
   color: secondary
+
+- name: Python e C/C++
+  percentage: 50
+  color: primary
